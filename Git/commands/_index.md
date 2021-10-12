@@ -1,4 +1,4 @@
-# 命令不全
+# 操作指南
 
 示例: [本地链接](\_index.md) - [git 官方链接](\_index.md)
 
@@ -12,7 +12,11 @@
 * [add](add.md) - [add](https://git-scm.com/docs/git-add)
 * [status](status.md) - [status](https://git-scm.com/docs/git-status)
 * [diff](diff.md) - [diff](https://git-scm.com/docs/git-diff)
-* [commit](commit.md)
+
+{% content-ref url="commit.md" %}
+[commit.md](commit.md)
+{% endcontent-ref %}
+
 * [notes](notes.md) - [notes](https://git-scm.com/docs/git-notes)
 * [restore](restore.md) - [restore](https://git-scm.com/docs/git-restore)
 * [reset](reset.md) - [reset](https://git-scm.com/docs/git-reset)
@@ -53,7 +57,17 @@
 ## Patching
 
 * [apply](apply.md) - [apply](https://git-scm.com/docs/git-apply)
-* [cherry-pick](cherry-pick.md)
+
+{% content-ref url="cherry-pick.md" %}
+[cherry-pick.md](cherry-pick.md)
+{% endcontent-ref %}
+
 * [diff](diff.md) - [diff](https://git-scm.com/docs/git-diff)
 * [rebase](rebase.md) - [rebase](https://git-scm.com/docs/git-rebase)
 * [revert](revert.md) - [revert](https://git-scm.com/docs/git-revert)
+
+## 有困难查手册
+
+{% content-ref url="../../git/_index/shan-chu-push-dao-le-yuan-duan-de-commit.md" %}
+[shan-chu-push-dao-le-yuan-duan-de-commit.md](../../git/\_index/shan-chu-push-dao-le-yuan-duan-de-commit.md)
+{% endcontent-ref %}
