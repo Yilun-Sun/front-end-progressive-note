@@ -51,8 +51,8 @@
 
 ## 有困难查手册
 
-{% content-ref url="../git/you-kun-nan-cha-shou-ce/shan-chu-push-dao-le-yuan-duan-de-commit.md" %}
-[shan-chu-push-dao-le-yuan-duan-de-commit.md](../git/you-kun-nan-cha-shou-ce/shan-chu-push-dao-le-yuan-duan-de-commit.md)
+{% content-ref url="solution/shan-chu-push-dao-le-yuan-duan-de-commit.md" %}
+[shan-chu-push-dao-le-yuan-duan-de-commit.md](solution/shan-chu-push-dao-le-yuan-duan-de-commit.md)
 {% endcontent-ref %}
 
 
