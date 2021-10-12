@@ -1,5 +1,3 @@
-<p dir='rtl' align='right'><a href="">index <-</a></p>
-
 ## status
 
 ### Lv.0
@@ -8,7 +6,7 @@
 
 效果：知道当前什么改动被 staged 了，什么改动没有（staged 就是将要被包含在下一个 commit 里的）
 	
-示例：![[Pasted image 20210926113815.png]]
+示例：![](static/Pasted image 20210926113815.png)
 	
 ### Lv.1
 	
@@ -16,7 +14,7 @@
 	
 - -s / --short
 	简化版 可好看了
-	![[Pasted image 20210926115032.png]]
+	![[static/Pasted image 20210926115032.png]]
 - 
 	
 status 和 log 的区别
