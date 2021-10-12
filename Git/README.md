@@ -51,11 +51,11 @@
 
 ## 有困难查手册
 
+常见不常见问题解决
+
 {% content-ref url="solution/shan-chu-push-dao-le-yuan-duan-de-commit.md" %}
 [shan-chu-push-dao-le-yuan-duan-de-commit.md](solution/shan-chu-push-dao-le-yuan-duan-de-commit.md)
 {% endcontent-ref %}
-
-
 
 ## 工具
 
