@@ -2,6 +2,8 @@
 
 ## 操作指南
 
+常用命令指南
+
 * [init](init.md)
 * [clone](clone.md)
 * [add](add.md)
@@ -61,3 +63,6 @@
 
 Gitbook
 
+## 神奇 Git 在哪里
+
+Fantastic Gits

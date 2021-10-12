@@ -10,7 +10,7 @@
     * [有困难查手册](Git/solution/README.md)
         * [删除 push 到了远端的 commit](Git/solution/shan-chu-push-dao-le-yuan-duan-de-commit.md)
     * [相关工具](Git/tool/README.md)
-        * [Gitbook](Git/tool/gitbook.md)
+        * [Gitbook](Git/tool/Gitbook.md)
     * [神奇 Git 在哪里](Git/fantastic-git/README.md)
         * [神奇 Git 在哪里](Git/fantastic-git/FantasticGitsAndWhereToFindThem.md)
 
