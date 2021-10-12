@@ -1,15 +1,15 @@
-# Summary
+# Table of contents
 
 * [前言](README.md)
 * [Linux](Linux/README.md)
 * [Git](Git/README.md)
-    * 操作指南
-        * [commit](Git/command/commit.md)
-        * [status](Git/command/status.md)
-        * [cherry-pick](Git/command/cherry-pick.md)
-    * 有困难查手册
-        * [删除 push 到了远端的 commit](git/solution/shan-chu-push-dao-le-yuan-duan-de-commit.md)
-    * 相关工具
-    * 神奇 Git 在哪里
-        * [神奇 Git 在哪里](Git/FantasticGitsAndWhereToFindThem.md)
-
+  * [操作指南](git/cao-zuo-zhi-nan/README.md)
+    * [commit](Git/command/commit.md)
+    * [status](Git/command/status.md)
+    * [cherry-pick](Git/command/cherry-pick.md)
+  * [有困难查手册](git/you-kun-nan-cha-shou-ce/README.md)
+    * [删除 push 到了远端的 commit](git/you-kun-nan-cha-shou-ce/shan-chu-push-dao-le-yuan-duan-de-commit.md)
+  * [相关工具](git/xiang-guan-gong-ju/README.md)
+    * [Gitbook](git/xiang-guan-gong-ju/gitbook.md)
+  * [神奇 Git 在哪里](git/shen-qi-git-zai-na-li/README.md)
+    * [神奇 Git 在哪里](Git/FantasticGitsAndWhereToFindThem.md)
