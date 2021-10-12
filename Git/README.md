@@ -8,8 +8,8 @@
 * [status](status.md)
 * [diff](diff.md)
 
-{% content-ref url="commit.md" %}
-[commit.md](commit.md)
+{% content-ref url="command/commit.md" %}
+[commit.md](command/commit.md)
 {% endcontent-ref %}
 
 * [notes](notes.md) - [notes](https://git-scm.com/docs/git-notes)
@@ -41,8 +41,8 @@
 * [describe](describe.md) - [describe](https://git-scm.com/docs/git-describe)
 * [apply](apply.md) - [apply](https://git-scm.com/docs/git-apply)
 
-{% content-ref url="cherry-pick.md" %}
-[cherry-pick.md](cherry-pick.md)
+{% content-ref url="command/cherry-pick.md" %}
+[cherry-pick.md](command/cherry-pick.md)
 {% endcontent-ref %}
 
 * [diff](diff.md) - [diff](https://git-scm.com/docs/git-diff)
@@ -51,6 +51,6 @@
 
 ## 有困难查手册
 
-{% content-ref url="../../git/_index/shan-chu-push-dao-le-yuan-duan-de-commit.md" %}
-[shan-chu-push-dao-le-yuan-duan-de-commit.md](../../git/\_index/shan-chu-push-dao-le-yuan-duan-de-commit.md)
+{% content-ref url="../../git/solution/shan-chu-push-dao-le-yuan-duan-de-commit.md" %}
+[shan-chu-push-dao-le-yuan-duan-de-commit.md](../../git/solution/shan-chu-push-dao-le-yuan-duan-de-commit.md)
 {% endcontent-ref %}
