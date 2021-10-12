@@ -53,7 +53,7 @@
 ## Patching
 
 - [apply](apply.md) - [apply](https://git-scm.com/docs/git-apply)
-- [cherry-pick](commands/cherry-pick.md) - [cherry-pick](https://git-scm.com/docs/git-cherry-pick)
+- [cherry-pick](cherry-pick.md) - [cherry-pick](https://git-scm.com/docs/git-cherry-pick)
 - [diff](diff.md) - [diff](https://git-scm.com/docs/git-diff)
 - [rebase](rebase.md) - [rebase](https://git-scm.com/docs/git-rebase)
 - [revert](revert.md) - [revert](https://git-scm.com/docs/git-revert)
