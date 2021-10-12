@@ -1,6 +1,0 @@
----
-description: Linux
----
-
-# Linux
-
