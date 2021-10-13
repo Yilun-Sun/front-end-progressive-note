@@ -1,4 +1,11 @@
-# GitBook
+---
+description: 对，就是用这玩意写的
+cover: >-
+  https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2Fgit-blob-0d91e3d537f828d1fc7dfd2670840578d0f19cba%2FSpace.png?alt=media
+coverY: 257.5953079178886
+---
+
+# 📘 GitBook
 
 {% hint style="warning" %}
 不要打包！不要打包！不要打包！
