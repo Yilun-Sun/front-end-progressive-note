@@ -1,4 +1,10 @@
-# Git
+---
+cover: >-
+  https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fhow-to-install-git-on-android%2F&psig=AOvVaw3GVTATkSZ2lZE6J2my_7fh&ust=1634196001902000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj9jdjsxvMCFQAAAAAdAAAAABAD
+coverY: 0
+---
+
+# 🦑 Git
 
 ## 操作指南
 

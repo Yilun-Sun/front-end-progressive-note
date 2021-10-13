@@ -1,7 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-* [Git](Git/README.md)
+* [🦑 Git](Git/README.md)
   * [操作指南](Git/command/README.md)
     * [commit](Git/command/commit.md)
     * [status](Git/command/status.md)
@@ -12,7 +12,7 @@
     * [📘 GitBook](Git/tool/GitBook.md)
   * [神奇 Git 在哪里](Git/fantastic-git/README.md)
     * [神奇 Git 在哪里](Git/fantastic-git/FantasticGitsAndWhereToFindThem.md)
-* [MarkDown](MarkDown/README.md)
+* [⬇ MarkDown](MarkDown/README.md)
   * [基础语法](MarkDown/base-syntax.md)
   * [相关工具](MarkDown/tool/README.md)
     * [Typora](MarkDown/tool/Typora.md)
