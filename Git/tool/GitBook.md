@@ -6,7 +6,7 @@
 
 ## 是个什么玩意
 
-GitBook is a modern documentation platform where teams can document everything from products to internal knowledge-bases and APIs.
+> GitBook is a modern documentation platform where teams can document everything from products to internal knowledge-bases and APIs.
 
 其实就是个好看点的 Markdown
 
@@ -40,6 +40,6 @@ GitBook 在线平台的提交修改和 Merge 的对象都是你的远程 repo，
 
 所以你可以有多种撰写文档或者文章的工作流：
 
-- local repo -> push to online repo -> sync in GitBook -> Done!
-- edit in online GitBook dashboard -> Done!
-- edit in online GitBook dashboard -> merge changes to online repo -> pull in local repo -> Done!
+* local repo -> push to online repo -> sync in GitBook -> <mark style="color:green;">Done!</mark>
+* edit in online GitBook dashboard -> <mark style="color:green;">Done!</mark>
+* edit in online GitBook dashboard -> merge changes to online repo -> pull in local repo -> <mark style="color:green;">Done!</mark>
