@@ -32,9 +32,9 @@ info: initialization is finished
 如果有报错的话可能就是 node 版本问题 可以安装 nvm 去切换 node 版本或者直接安装最新/对应的版本，之后重新执行 `git init`
 {% endhint %}
 
-## Sync Github 仓库
+## Sync GitHub 仓库
 
-GitBook 可以同步所有者的某个 Github 仓库中的内容。链接好之后，每次仓库中的变动都可以触发 GitBook 的同步，把新的内容在 GitBook 中显现出来。
+GitBook 可以同步所有者的某个 GitHub 仓库中的内容。链接好之后，每次仓库中的变动都可以触发 GitBook 的同步，把新的内容在 GitBook 中显现出来。
 
 GitBook 在线平台的提交修改和 Merge 的对象都是你的远程 repo，还想在本地继续修改的话，就要注意在本地的 repo 及时 pull 下来远程的更新。不然本地和远程就错开了。
 
