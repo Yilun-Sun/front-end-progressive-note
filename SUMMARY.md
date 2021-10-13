@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前言](README.md)
+* [🥗 前言](README.md)
 * [🦑 Git](Git/README.md)
   * [操作指南](Git/command/README.md)
     * [commit](Git/command/commit.md)

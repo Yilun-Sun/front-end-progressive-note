@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fhow-to-install-git-on-android%2F&psig=AOvVaw3GVTATkSZ2lZE6J2my_7fh&ust=1634196001902000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj9jdjsxvMCFQAAAAAdAAAAABAD
-coverY: 0
+  https://images.unsplash.com/photo-1556075798-4825dfaaf498?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxnaXR8ZW58MHx8fHwxNjM0MTA5MzI5&ixlib=rb-1.2.1&q=85
+coverY: -377.5659824046921
 ---
 
 # 🦑 Git
