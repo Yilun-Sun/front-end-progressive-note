@@ -61,7 +61,7 @@
 
 ## 工具
 
-Gitbook
+GitBook
 
 ## 神奇 Git 在哪里
 
