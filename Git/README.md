@@ -1,4 +1,10 @@
-# Git
+---
+cover: >-
+  https://images.unsplash.com/photo-1556075798-4825dfaaf498?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxnaXR8ZW58MHx8fHwxNjM0MTA5MzI5&ixlib=rb-1.2.1&q=85
+coverY: -377.5659824046921
+---
+
+# 🦑 Git
 
 ## 操作指南
 
@@ -61,7 +67,7 @@
 
 ## 工具
 
-Gitbook
+GitBook
 
 ## 神奇 Git 在哪里
 
